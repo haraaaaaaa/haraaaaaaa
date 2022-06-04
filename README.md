@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @haraaaaaaa
 - 👀 I’m interested in programming and web development.
-- 🌱 I’m currently learning Python & SAMP Development.
+- 🌱 I’m currently learning Python & C++.
 - 📫 You can reach me via discord - Hara#4345
 
 <!---
