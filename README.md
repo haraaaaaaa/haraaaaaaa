@@ -1,6 +1,6 @@
 Made in Sarajevo 🇧🇦
 
-You can reach me via discord - Hara#4345
+You can reach me via Discord - hara1w
 
 <!---
 haraaaaaaa/haraaaaaaa is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
